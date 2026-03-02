@@ -1,31 +1,23 @@
 # Stripe Checkout Links - OpenClaw Playbook
 
-**Updated:** 2026-03-01 7:08 PM CST
+**Updated:** 2026-03-01 7:20 PM CST
 **Valid for:** 24 hours from creation
 
 ## Product 1: Core Playbook ($497)
-**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1TON9cQGpbpwEvivnZEkW12udJYlsFpLCPsetkIidgL4e2zwgq0gD3R1K
+**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1itXG84TCFzpqRiHudA4Nsc8LPCn8sm27dxMRBgIfl4PhHzR11eGzx0Xf#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blppbHNgWjA0UTFEd2BGQX1cTTRdQz1DfGkyS2lVMjI3YVJ0MUhpUkJHb3FWSE9VR1FdQ0dwNnducGtEYlA0PGA8R1BgVncyd3xLSUJJTmxgfEZ0dzxDdlFrPX1id19NNTU3bmFDf19kSCcpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl
 
 ## Product 2: Automation Swipe File ($97)
-**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1T0vl5s0IrLRGcbDZIlHRR6MQNARreQjnu9I2kUXudf19mf0pwVCRnXXP
+**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1GAahLIlzwyjs7PP9Ahrmj3pojSImlM6s8QS11hSanOikdTqulvzr09YN#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blppbHNgWjA0UTFEd2BGQX1cTTRdQz1DfGkyS2lVMjI3YVJ0MUhpUkJHb3FWSE9VR1FdQ0dwNnducGtEYlA0PGA8R1BgVncyd3xLSUJJTmxgfEZ0dzxDdlFrPX1id19NNTU3bmFDf19kSCcpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl
 
 ## Product 3: Done-With-You Membership ($197/month)
-**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1m1PPxNXpm89qJ3y7LAdioc7KyNzbZL3ESD6yoQqj70xlyVejrlf9RPLW
+**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1Ox3ZBUrBHxgK5wyB0o65vutdwt6T5H15pUfmDpfrsBhGonpqwrQHBKrJ#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blppbHNgWjA0UTFEd2BGQX1cTTRdQz1DfGkyS2lVMjI3YVJ0MUhpUkJHb3FWSE9VR1FdQ0dwNnducGtEYlA0PGA8R1BgVncyd3xLSUJJTmxgfEZ0dzxDdlFrPX1id19NNTU3bmFDf19kSCcpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl
 
 ## Product 4: VIP Done-For-You Day ($2,997)
-**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1RmKBg0IGzegYaviRArROCD6rncxN3H1oORCqODznlzndJCY6g86ye9qf
+**Checkout:** https://checkout.stripe.com/c/pay/cs_live_a1LsGOGl21JaV7mDM6EoViqytibqQO7Io2moeXIYjJHJOIBho6BQS2MRo4#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSdkdWxOYHwnPyd1blppbHNgWjA0UTFEd2BGQX1cTTRdQz1DfGkyS2lVMjI3YVJ0MUhpUkJHb3FWSE9VR1FdQ0dwNnducGtEYlA0PGA8R1BgVncyd3xLSUJJTmxgfEZ0dzxDdlFrPX1id19NNTU3bmFDf19kSCcpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyZjY2NjY2MnKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSdga2RnaWBVaWRmYG1qaWFgd3YnP3F3cGB4JSUl
 
 ---
 
-**⚠️ IMPORTANT:** These are Checkout Sessions and expire after 24 hours.
-
-**Permanent Solution Needed:**
-- Add "Payment Links (Write)" permission to Stripe API key
-- Then create permanent Payment Links that never expire
-- OR manually create Payment Links in Stripe Dashboard
-
-**All links configured with:**
-- Success URL: https://openclaw-playbook-sales-pacino-bots-projects.vercel.app/thank-you
-- Cancel URL: https://openclaw-playbook-sales-pacino-bots-projects.vercel.app
+**AUTO-REGENERATED:** These links are automatically refreshed every 12 hours via cron.
 
 **Payment Processing:** Nicely Media LLC Stripe Account
+
