@@ -31,8 +31,15 @@ export default function Home() {
       {/* Video Section */}
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 max-w-4xl">
-          <div className="aspect-video bg-gray-200 rounded-lg flex items-center justify-center">
-            <p className="text-gray-500">[VSL Video Will Be Embedded Here]</p>
+          <div className="aspect-video bg-black rounded-lg overflow-hidden shadow-2xl">
+            <video 
+              controls 
+              className="w-full h-full"
+              poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1920' height='1080'%3E%3Crect width='1920' height='1080' fill='%231a1a2e'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='Arial' font-size='48' fill='white'%3EClick to Play%3C/text%3E%3C/svg%3E"
+            >
+              <source src="https://files.catbox.moe/f8x6sp.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
           </div>
         </div>
       </section>
