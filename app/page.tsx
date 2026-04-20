@@ -17,7 +17,7 @@ export default function Home() {
             The only step-by-step system that transforms complete beginners into AI automation experts in 30 days — and gives you 20+ hours back every single week.
           </p>
           <a 
-            href="https://checkout.stripe.com/c/pay/cs_live_a1gtlRI9AsT5jVSbBMoQg7LisJMd2Yodmkhb5vG1lFyNXO2HqJncPXX2Xb" 
+            href="https://checkout.stripe.com/c/pay/cs_live_a1c5dMN7S3yNlalhHZ2aBougCr8g6jcYjuC6QAerf4kJN6A3I7U5tpuppf" 
             className="inline-block bg-yellow-400 text-blue-900 px-8 py-4 rounded-lg text-xl font-bold hover:bg-yellow-300 transition-colors shadow-lg"
           >
             Get The Playbook Now — $497
@@ -262,7 +262,7 @@ export default function Home() {
             <p>4️⃣ Start Module 1 today</p>
           </div>
           <a 
-            href="https://checkout.stripe.com/c/pay/cs_live_a1gtlRI9AsT5jVSbBMoQg7LisJMd2Yodmkhb5vG1lFyNXO2HqJncPXX2Xb" 
+            href="https://checkout.stripe.com/c/pay/cs_live_a1c5dMN7S3yNlalhHZ2aBougCr8g6jcYjuC6QAerf4kJN6A3I7U5tpuppf" 
             className="inline-block bg-yellow-400 text-blue-900 px-10 py-5 rounded-lg text-2xl font-bold hover:bg-yellow-300 transition-colors shadow-xl"
           >
             Yes! Give Me The Playbook — $497
